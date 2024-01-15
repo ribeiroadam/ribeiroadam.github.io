@@ -1,1 +1,2 @@
-# ribeiroadam.github.io
+# Utilizando Github
+Utilizadno GitHub para testes e entendendo funcionalidades, etc.
